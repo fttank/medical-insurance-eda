@@ -15,3 +15,5 @@ Exploratory Data Analysis (EDA) project focused on understanding the relationshi
 - Data visualization techniques  
 - Correlation analysis  
 - Detecting outliers and visual patterns
+
+> 🛠️ Educational project completed during Codecademy’s Data Science Pathway.
